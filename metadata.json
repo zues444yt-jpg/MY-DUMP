@@ -1,0 +1,6 @@
+{
+  "name": "YF Reminder",
+  "description": "Smart reminder and task management app to schedule and organize daily reminders with categories, alarms, and custom media albums to store photos and videos with scheduled reminders.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
